@@ -137,7 +137,7 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 |---|---|---|
 | **SENTINEL** | FastAPI, Gemini APIs, SEA-LION GUARD, ClickHouse, Chrome Extension (WXT + Svelte), Google Cloud Run | Active / submitted to Hackomania 2026 & Gemini Live Agent Challenge |
 | **ContextGuard** | Next.js, impeccable.style design system | Active (Hackomania 2026 teammate project) |
-| **Kimini** | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
+| **QuickDraw** | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
 | **EV3 Line Tracing Robot Workshop** | LEGO Mindstorms EV3, workshop logistics | Completed (w/ Impart & Overflow) |
 
 ---
