@@ -1,6 +1,6 @@
 # Loh John Ray
 > Engineering Science Y3, Ngee Ann Polytechnic | Updated: April 2026
-> LinkedIn: [linkedin.com/in/lohjohnray](https://www.linkedin.com/in/lohjohnray/) | lohjohn02@gmail.com | +65 8921 5337
+> LinkedIn: [linkedin.com/in/lohjohnray](https://www.linkedin.com/in/lohjohnray/) 
 > GitHub: [https://github.com/lohjo](https://github.com/lohjo)
 
 ---
