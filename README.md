@@ -5,7 +5,7 @@
 
 ---
 
-## 🧭 Who I Am (Quick Context)
+## Who I Am
 
 I'm an incoming Year 3 Engineering Science student at Ngee Ann Polytechnic (GPA: 3.70, expected graduation Apr 2027). My interests sit at the intersection of **deep tech, AI/ML, and systems-level software development**. I'm drawn to problems that are genuinely hard and have real-world stakes — misinformation, accessibility, civic tech, healthcare.
 
@@ -13,25 +13,8 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 
 ---
 
-## 🎯 Role Preferences
+## Organisational Experience
 
-### Preferred Role Types
-- **AI/ML Engineering** — model integration, RAG pipelines, LLM application development
-- **Full-Stack / Backend Engineering** — FastAPI, Next.js, TypeScript, Python
-- **Research Engineering / Applied Research** — prototyping novel systems, literature-to-build pipelines
-- **DevRel / Technical Writing** *(secondary)* — explaining complex systems to developers or non-technical audiences
-- **Product Engineering** — building deployable tools that non-technical users actually use
-
-### Role Types to Avoid
-- Pure frontend/UI roles with no systems depth
-- Sales engineering or non-technical customer success
-- Roles with no ownership or autonomy over what gets built
-
----
-
-## 🏢 Organisation Preferences
-
-### Ideal Org Types
 | Type | Why |
 |---|---|
 | Deep tech / AI startups | High ownership, fast iteration, proximity to cutting-edge work |
@@ -39,23 +22,9 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 | Research labs (university-attached or independent) | Already comfortable in this context via SUTD STEAMunity |
 | Open-source companies | Aligned with YouthTech fellowship values and SENTINEL's stack |
 
-### Strong Fit Organisations (Singapore Context)
-- GovTech Singapore (Open Government Products, CODEX, AI platforms)
-- AI Singapore (AISG internships, 100E programme)
-- Anthropic (via Student Builders / Partner Network track)
-- DSO National Laboratories (deep tech, defence R&D)
-- Synapxe / MOH Holdings (healthcare AI)
-- Grab / Sea Group (scale, applied ML, Southeast Asia context)
-- Emerging AI startups in the SG/SEA ecosystem
-
-### Org Red Flags
-- No engineering culture or technical depth
-- Bureaucracy-heavy environments where junior contributors are purely execution
-- Orgs that treat AI as buzzword marketing rather than engineering substance
-
 ---
 
-## 🛠️ Technical Preferences
+## Technical Preferences
 
 ### Stack I Want to Work In
 - **Languages:** Python, TypeScript/JavaScript, C/C++ (open to Rust, Go)
@@ -77,27 +46,7 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 
 ---
 
-## 🌍 Work Preferences
-
-### Location
-- **Primary:** Singapore (Sengkang base; comfortable with anywhere on MRT)
-- **Open to:** Remote-first or hybrid roles
-- **Not pursuing:** Overseas relocation at this stage (polytechnic still ongoing until Apr 2027)
-
-### Engagement Type
-- **Preferred:** Internship (6–12 months), part-time contract, or project-based
-- **Timing:** Available for internships aligned with school calendar (check NP industrial attachment windows — typically Sem 2 or full-year)
-- **Long-term:** Open to return offers or full-time after graduation (Apr 2027)
-
-### Team Culture Fit
-- Small, high-agency teams where juniors own real deliverables
-- Engineers who read papers and ship things (not just one or the other)
-- Psychological safety to propose wild ideas, push back on scope, and break things in staging
-- Async-first documentation culture (I write `CLAUDE.md` files and hardening plans for fun)
-
----
-
-## 🧠 What I Bring (Honest Self-Assessment)
+## What I Bring
 
 ### Genuine Strengths
 - **Fast builder** — can go from spec to deployed prototype quickly (SENTINEL was built across multiple hackathon sprints)
@@ -122,23 +71,14 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 
 ---
 
-## 🚫 Non-Negotiables
-
-- Work must have genuine engineering substance (not just prompting wrappers or template sites)
-- Won't take roles that compromise on ethical AI / responsible deployment
-- Must be able to learn something meaningfully new in the role
-- No unpaid "exposure" internships for roles requiring real engineering output
-
----
-
 ## 📎 Portfolio Anchors
 
 | Project | Stack | Status |
 |---|---|---|
-| **SENTINEL** | FastAPI, Gemini APIs, SEA-LION GUARD, ClickHouse, Chrome Extension (WXT + Svelte), Google Cloud Run | Active / submitted to Hackomania 2026 & Gemini Live Agent Challenge |
-| **ContextGuard** | Next.js, impeccable.style design system | Active (Hackomania 2026 teammate project) |
-| **QuickDraw** | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
-| **EV3 Line Tracing Robot Workshop** | LEGO Mindstorms EV3, workshop logistics | Completed (w/ Impart & Overflow) |
+| (**SENTINEL**)[https://github.com/lohjo/jwj2026] | FastAPI, Gemini APIs, SEA-LION GUARD, ClickHouse, Chrome Extension (WXT + Svelte), Google Cloud Run | Active / submitted to Hackomania 2026 & Gemini Live Agent Challenge |
+| (**ContextGuard**)[https://github.com/lohjo/sentinelWebExtension] | Next.js, impeccable.style design system | Active (Hackomania 2026 teammate project) |
+| (**QuickDraw**)[https://github.com/lohjo/hardware_projects] | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
+| (**EV3 Line Tracing Robot Workshop**)[https://github.com/lohjo/ev3] | LEGO Mindstorms EV3, workshop logistics | Completed (w/ Impart) |
 
 ---
 
