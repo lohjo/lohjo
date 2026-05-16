@@ -77,9 +77,11 @@ Outside of coursework, I build things: SENTINEL (a multimodal AI-generated conte
 | Project | Stack | Status |
 |---|---|---|
 | [**SENTINEL**](https://github.com/lohjo/jwj2026) | FastAPI, Gemini APIs, SEA-LION GUARD, ClickHouse, Chrome Extension (WXT + Svelte), Google Cloud Run | Active / submitted to Hackomania 2026 & Gemini Live Agent Challenge |
-| [**ContextGuard**](https://github.com/lohjo/sentinelWebExtension) | Next.js, impeccable.style design system | Active (Hackomania 2026 teammate project) |
-| [**QuickDraw**](https://github.com/lohjo/hardware_projects) | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
+| [**SOAR-agent**](https://github.com/lohjo/soar-main) | Google ADK, multi-agent surgical copilot |
+| [**quickly-draw!**](https://github.com/lohjo/hardware_projects) | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
 | [**EV3 Line Tracing Robot Workshop**](https://github.com/lohjo/ev3) | LEGO Mindstorms EV3, workshop logistics | Completed (w/ Impart) |
+| [**MathScribe**](https://github.com/lohjo/yolomolo) | Handwriting to LaTeX conversion tool | olmOCR VLM, QLoRa Training, MLOps |
+
 
 ---
 
