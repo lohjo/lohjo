@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\User\\\\Projects\\\\GitHub\\\\lohjo\\\\assets\")",
+      "Bash(Out-Null)",
+      "Bash(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\User\\\\Projects\\\\GitHub\\\\lohjo\\\\.github\\\\workflows\")",
+      "Bash(Write-Output \"dirs created\")"
+    ]
+  }
+}

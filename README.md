@@ -60,6 +60,16 @@ Hello.&nbsp;&nbsp;&nbsp;你好。&nbsp;&nbsp;&nbsp;こんにちは。&nbsp;&nbsp
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohjo/lohjo/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lohjo/lohjo/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</td>
+</tr>
 </table>
 
 &nbsp;
