@@ -1,103 +1,73 @@
-# Loh John Ray
-> Engineering Science Y3, Ngee Ann Polytechnic | Updated: April 2026  
-> LinkedIn: [linkedin.com/in/lohjohnray](https://www.linkedin.com/in/lohjohnray/)  
-> GitHub: [https://github.com/lohjo](https://github.com/lohjo)  
-> Portfolio: [https://my-website-b4twdhxhx-lohjos-projects.vercel.app/](https://my-website-b4twdhxhx-lohjos-projects.vercel.app/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Loh John Ray — a researcher who ships" src="assets/hero-light.svg" width="100%">
+</picture>
+
+&nbsp;
+
+I'm a Year 3 Engineering Science student at Ngee Ann Polytechnic, working at the intersection of **deep-tech research** and **human-centred engineering**. My research sits in CO₂ adsorption — packed-bed columns, polymer-based sorbents, breakthrough-curve modelling for Direct Air Capture. My builds sit elsewhere: multimodal AI for misinformation, voice-directed surgical co-pilots, an open-source 3D-printable blood sampler for disaster and LMIC settings.
+
+Both, at once, all the way down.
+
+> *Mathematics is the only language I know that compresses without lying.*
+
+&nbsp;
+
+### Currently
+
+— **Researching** packed-bed CO₂ adsorption with polymer sorbents; modelling breakthrough curves across PFO, LDF, and PSO kinetics.
+— **Building** [SENTINEL](https://github.com/lohjo/jwj2026), [SOAR](https://github.com/lohjo/soar-main), [Lifeline / quickly-draw!](https://github.com/lohjo/hardware_projects), and a small constellation of side projects.
+— **Learning** agentic orchestration, MLOps, on-device inference, and the conversational Japanese I'll need for GEIP.
+
+&nbsp;
+
+### Selected work
+
+[**SENTINEL**](https://github.com/lohjo/jwj2026) — a multimodal AI-generated-content detection platform for Southeast Asia. FastAPI on Cloud Run, Gemini ensemble, SEA-LION GUARD for SEA-language coverage, Chrome extension + Telegram bot. Built in 24h at Hackomania 2026, extended for the Gemini Live Agent Challenge.
+
+[**SOAR**](https://github.com/lohjo/soar-main) — voice-directed surgical co-pilot. One Orchestrator agent, nine specialists, 26 in-process tool functions, Vertex AI Gemini Live bridged into a browser console.
+
+[**Lifeline / quickly-draw!**](https://github.com/lohjo/hardware_projects) — open-source 3D-printable blood sampler for disaster and low-resource settings. Vacuum-actuated bellows, microneedle array, sub-S$10 BOM, CAD released under CC-BY-4.0.
+
+[**MathScribe**](https://github.com/lohjo/yolomolo) — handwriting-to-LaTeX, fine-tuned olmOCR VLM with QLoRA. End-to-end MLOps pipeline.
+
+&nbsp;
+
+### Hello, in four
+
+Hello.&nbsp;&nbsp;&nbsp;你好。&nbsp;&nbsp;&nbsp;こんにちは。&nbsp;&nbsp;&nbsp;Xin chào.
+
+&nbsp;
+
+### Signals
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=5fb3bd&text_color=e6ebed&bg_color=21282d&langs_count=6&card_width=400">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=0f6973&text_color=1f2a30&bg_color=f4f7f8&langs_count=6&card_width=400">
+</picture>
+
+</td>
+<td valign="top" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lohjo&hide_border=true&background=21282d&stroke=5fb3bd&ring=5fb3bd&fire=5fb3bd&currStreakLabel=5fb3bd&sideLabels=97a6ad&dates=97a6ad&currStreakNum=e6ebed&sideNums=e6ebed">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=lohjo&hide_border=true&background=f4f7f8&stroke=0f6973&ring=0f6973&fire=0f6973&currStreakLabel=0f6973&sideLabels=5a6a72&dates=5a6a72&currStreakNum=1f2a30&sideNums=1f2a30">
+</picture>
+
+</td>
+</tr>
+</table>
+
+&nbsp;
 
 ---
 
-## Who I Am
-
-I'm an incoming Year 3 Engineering Science student at Ngee Ann Polytechnic (GPA: 3.70, expected graduation Apr 2027). My interests sit at the intersection of **deep tech, AI/ML, and systems-level software development**. I'm drawn to problems that are genuinely hard and have real-world stakes — misinformation, accessibility, civic tech, healthcare.
-
-Outside of coursework, I build things: SENTINEL (a multimodal AI-generated content detection platform for Singapore), Kimini (a 3D-printed minimally invasive blood sampling device), and various hackathon projects. I'm active in open-source communities, have passed the preliminary round of the National Olympiad in AI (NOAI), and am coordinating Ngee Ann Polytechnic's onboarding as an Anthropic Partner.
-
----
-
-## Organisational Experience
-
-| Type | Why |
-|---|---|
-| Deep tech / AI startups | High ownership, fast iteration, proximity to cutting-edge work |
-| Civic tech / GovTech orgs | Meaningful impact on SG public; aligns with my Leo Club / YEP ethos |
-| Research labs (university-attached or independent) | Already comfortable in this context via SUTD STEAMunity |
-| Open-source companies | Aligned with YouthTech fellowship values and SENTINEL's stack |
-
----
-
-## Technical Preferences
-
-### Stack I Want to Work In
-- **Languages:** Python, TypeScript/JavaScript, C/C++ (open to Rust, Go)
-- **Frameworks:** FastAPI, Next.js, React, Node.js
-- **AI/ML:** LLM APIs (Anthropic, Google Gemini), RAG, multimodal systems, sklearn/classical ML
-- **Infrastructure:** Docker, Google Cloud Run, ClickHouse, CI/CD pipelines
-- **Tools:** Git/GitHub, Figma, Fusion360
-
-### Technical Areas I Want to Grow In
-- Agentic AI systems and multi-agent orchestration (Google ADK, LangGraph)
-- On-device / edge ML inference
-- Formal verification and compliant mechanism design (longer-term curiosity)
-- Polynomial mathematics and computational geometry
-- MLOps and production-grade model deployment
-
-### Technical Areas I'm Less Interested In
-- Pure data analytics / BI dashboarding with no engineering component
-- Legacy enterprise systems maintenance (Java EE, COBOL, etc.)
-
----
-
-## What I Bring
-
-### Genuine Strengths
-- **Fast builder** — can go from spec to deployed prototype quickly (SENTINEL was built across multiple hackathon sprints)
-- **Cross-domain** — comfortable moving between hardware (Kimini soft robotics), software (FastAPI + LLM APIs), and research (STEAMunity at SUTD)
-- **Communicator** — presented research to Deputy Prime Minister Heng Swee Keat; taught secondary math; write clear technical docs
-- **Multilingual** — English (native), Mandarin, Japanese, Vietnamese (conversational range)
-- **Initiative** — applied for Anthropic Partner Network on NP's behalf; pitched NOAI; organised EV3 robotics workshops with Impart and Overflow
-
-### Honest Gaps (as of Y3)
-- Limited exposure to large-scale production systems (most work has been greenfield / hackathon-scale)
-- ML theory depth still developing (NOAI prep ongoing; sklearn pipeline solid, but advanced RL/CV theory is a gap)
-- No formal internship on CV yet — all experience is project, club, and freelance-based
-
----
-
-## 💬 Communication & Work Style
-
-- Direct and honest — I'd rather flag a bad architecture decision early than polish it quietly
-- Prefer written async communication for complex decisions; voice/video for quick alignment
-- Self-aware about not knowing things; proactive about finding out
-- Comfortable with ambiguity, but I'll ask clarifying questions rather than guess wrong for a week
-
----
-
-## 📎 Portfolio Anchors
-
-| Project | Stack | Status |
-|---|---|---|
-| [**SENTINEL**](https://github.com/lohjo/jwj2026) | FastAPI, Gemini APIs, SEA-LION GUARD, ClickHouse, Chrome Extension (WXT + Svelte), Google Cloud Run | Active / submitted to Hackomania 2026 & Gemini Live Agent Challenge |
-| [**SOAR-agent**](https://github.com/lohjo/soar-main) | Google ADK, multi-agent surgical copilot |
-| [**quickly-draw!**](https://github.com/lohjo/hardware_projects) | SLA microneedles, TPU bellows, LSOVA actuator, microfluidic manifold (CAD/Fusion360) | Feasibility complete |
-| [**EV3 Line Tracing Robot Workshop**](https://github.com/lohjo/ev3) | LEGO Mindstorms EV3, workshop logistics | Completed (w/ Impart) |
-| [**MathScribe**](https://github.com/lohjo/yolomolo) | Handwriting to LaTeX conversion tool | olmOCR VLM, QLoRa Training, MLOps |
-
-
----
-
-*Last updated April 2026*
-
-<!--
-**lohjo/lohjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>
+<a href="https://github.com/lohjo">github</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/lohjohnray/">linkedin</a> &nbsp;·&nbsp;
+<a href="https://my-website-b4twdhxhx-lohjos-projects.vercel.app/">portfolio</a>
+</sub>

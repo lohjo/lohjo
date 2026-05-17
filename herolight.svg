@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Loh John Ray — a researcher who ships</title>
+  <desc id="desc">Editorial header: name, tagline, and three focus areas.</desc>
+
+  <rect width="1200" height="360" fill="#f4f7f8"/>
+
+  <!-- thin top hairline, manuscript margin marker -->
+  <line x1="80" y1="56" x2="160" y2="56" stroke="#0f6973" stroke-width="1.25"/>
+
+  <!-- eyebrow / mono -->
+  <text x="80" y="108"
+        font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+        font-size="14" letter-spacing="2.4" fill="#5a6a72">
+    LOH JOHN RAY · ENGINEERING SCIENCE · NGEE ANN POLYTECHNIC
+  </text>
+
+  <!-- display: serif, tracked tight -->
+  <text x="80" y="220"
+        font-family="'Source Serif 4', 'Source Serif Pro', 'Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif"
+        font-size="84" font-weight="500" fill="#1f2a30" letter-spacing="-1.2">
+    A researcher who ships.
+  </text>
+
+  <!-- teal rule -->
+  <line x1="80" y1="252" x2="560" y2="252" stroke="#0f6973" stroke-width="1.25"/>
+
+  <!-- subline: sans -->
+  <text x="80" y="294"
+        font-family="'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" fill="#1f2a30" letter-spacing="0.1">
+    Direct Air Capture <tspan fill="#0f6973">·</tspan> Multimodal AI <tspan fill="#0f6973">·</tspan> Accessibility Hardware
+  </text>
+
+  <!-- corner marginalia -->
+  <text x="1120" y="320" text-anchor="end"
+        font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+        font-size="11" letter-spacing="1.6" fill="#5a6a72">
+    SINGAPORE · 1°17′N 103°50′E
+  </text>
+</svg>
