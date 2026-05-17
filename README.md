@@ -33,7 +33,7 @@ Both, at once, all the way down.
 
 &nbsp;
 
-### Hello, in four
+### Hello, in four languages
 
 Hello.&nbsp;&nbsp;&nbsp;你好。&nbsp;&nbsp;&nbsp;こんにちは。&nbsp;&nbsp;&nbsp;Xin chào.
 
@@ -46,8 +46,8 @@ Hello.&nbsp;&nbsp;&nbsp;你好。&nbsp;&nbsp;&nbsp;こんにちは。&nbsp;&nbsp
 <td valign="top" width="50%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=5fb3bd&text_color=e6ebed&bg_color=21282d&langs_count=6&card_width=400">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=0f6973&text_color=1f2a30&bg_color=f4f7f8&langs_count=6&card_width=400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=5fb3bd&text_color=e6ebed&bg_color=21282d&langs_count=6&card_width=400&count_private=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohjo&layout=compact&hide_border=true&title_color=0f6973&text_color=1f2a30&bg_color=f4f7f8&langs_count=6&card_width=400&count_private=true">
 </picture>
 
 </td>
