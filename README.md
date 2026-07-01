@@ -17,7 +17,7 @@ Both, at once, all the way down.
 
 — **Researching** packed-bed CO₂ adsorption with polymer sorbents; modelling breakthrough curves across PFO, LDF, and PSO kinetics.
 — **Building** [SENTINEL](https://github.com/lohjo/jwj2026), [SOAR](https://github.com/lohjo/soar-main), [Lifeline / quickly-draw!](https://github.com/lohjo/hardware_projects), and a small constellation of side projects.
-— **Learning** agentic orchestration, MLOps, on-device inference, and the conversational Japanese I'll need for GEIP.
+— **Learning** agentic orchestration, MLOps, on-device inference, and conversational Japanese.
 
 &nbsp;
 
