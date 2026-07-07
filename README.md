@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Loh John Ray — a researcher who ships" src="assets/hero-light.svg" width="100%">
+  <img alt="Loh John Ray, a researcher who ships" src="assets/hero-light.svg" width="100%">
 </picture>
 
 &nbsp;
